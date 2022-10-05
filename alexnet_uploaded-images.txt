@@ -1,0 +1,337 @@
+Command Line Arguments:
+     dir = uploaded_images/Cat_01.jpg 
+    arch = alexnet 
+ dogfile = dognames.txt
+
+Pet Image Label Dictionary has 40 key-value pairs.
+Below are 10 of them:
+ 1 key:           Great_dane_05320.jpg  label:                 great dane
+ 2 key:               Beagle_01125.jpg  label:                     beagle
+ 3 key:               Collie_03797.jpg  label:                     collie
+ 4 key:            Dalmatian_04068.jpg  label:                  dalmatian
+ 5 key:  Miniature_schnauzer_06884.jpg  label:        miniature schnauzer
+ 6 key:  German_shepherd_dog_04890.jpg  label:        german shepherd dog
+ 7 key:              Basenji_00963.jpg  label:                    basenji
+ 8 key:                     cat_02.jpg  label:                        cat
+ 9 key:     Golden_retriever_05223.jpg  label:           golden retriever
+10 key:        great_horned_owl_02.jpg  label:           great horned owl
+
+     MATCH:
+
+ NOT A MATCH:
+
+          Great_dane_05320.jpg: 
+Real:                 great dane   Classifier:                           lynx
+
+              Beagle_01125.jpg: 
+Real:                     beagle   Classifier:                           lynx
+
+              Collie_03797.jpg: 
+Real:                     collie   Classifier:                           lynx
+
+           Dalmatian_04068.jpg: 
+Real:                  dalmatian   Classifier:                           lynx
+
+ Miniature_schnauzer_06884.jpg: 
+Real:        miniature schnauzer   Classifier:                           lynx
+
+ German_shepherd_dog_04890.jpg: 
+Real:        german shepherd dog   Classifier:                           lynx
+
+             Basenji_00963.jpg: 
+Real:                    basenji   Classifier:                           lynx
+
+                    cat_02.jpg: 
+Real:                        cat   Classifier:                           lynx
+
+    Golden_retriever_05223.jpg: 
+Real:           golden retriever   Classifier:                           lynx
+
+       great_horned_owl_02.jpg: 
+Real:           great horned owl   Classifier:                           lynx
+
+        Basset_hound_01034.jpg: 
+Real:               basset hound   Classifier:                           lynx
+
+      Cocker_spaniel_03750.jpg: 
+Real:             cocker spaniel   Classifier:                           lynx
+
+              Poodle_07927.jpg: 
+Real:                     poodle   Classifier:                           lynx
+
+              Beagle_01141.jpg: 
+Real:                     beagle   Classifier:                           lynx
+
+       Saint_bernard_08010.jpg: 
+Real:              saint bernard   Classifier:                           lynx
+
+               Boxer_02426.jpg: 
+Real:                      boxer   Classifier:                           lynx
+
+      Great_pyrenees_05367.jpg: 
+Real:             great pyrenees   Classifier:                           lynx
+
+German_shorthaired_pointer_04986.jpg: 
+Real: german shorthaired pointer   Classifier:                           lynx
+
+           Dalmatian_04037.jpg: 
+Real:                  dalmatian   Classifier:                           lynx
+
+           fox_squirrel_01.jpg: 
+Real:               fox squirrel   Classifier:                           lynx
+
+             polar_bear_04.jpg: 
+Real:                 polar bear   Classifier:                           lynx
+
+             Basenji_00974.jpg: 
+Real:                    basenji   Classifier:                           lynx
+
+       Saint_bernard_08036.jpg: 
+Real:              saint bernard   Classifier:                           lynx
+
+              Beagle_01170.jpg: 
+Real:                     beagle   Classifier:                           lynx
+
+                  gecko_02.jpg: 
+Real:                      gecko   Classifier:                           lynx
+
+      Boston_terrier_02285.jpg: 
+Real:             boston terrier   Classifier:                           lynx
+
+    Golden_retriever_05195.jpg: 
+Real:           golden retriever   Classifier:                           lynx
+
+    Golden_retriever_05182.jpg: 
+Real:           golden retriever   Classifier:                           lynx
+
+           Dalmatian_04017.jpg: 
+Real:                  dalmatian   Classifier:                           lynx
+
+    Golden_retriever_05257.jpg: 
+Real:           golden retriever   Classifier:                           lynx
+
+      Boston_terrier_02259.jpg: 
+Real:             boston terrier   Classifier:                           lynx
+
+                  gecko_80.jpg: 
+Real:                      gecko   Classifier:                           lynx
+
+              Poodle_07956.jpg: 
+Real:                     poodle   Classifier:                           lynx
+
+      Great_pyrenees_05435.jpg: 
+Real:             great pyrenees   Classifier:                           lynx
+
+                    cat_01.jpg: 
+Real:                        cat   Classifier:                           lynx
+
+      Boston_terrier_02303.jpg: 
+Real:             boston terrier   Classifier:                           lynx
+
+                 skunk_029.jpg: 
+Real:                      skunk   Classifier:                           lynx
+
+                    cat_07.jpg: 
+Real:                        cat   Classifier:                           lynx
+
+                Rabbit_002.jpg: 
+Real:                     rabbit   Classifier:                           lynx
+
+ German_shepherd_dog_04931.jpg: 
+Real:        german shepherd dog   Classifier:                           lynx
+
+# Total Images 40 # Matches: 0 # NOT Matches: 40
+
+     MATCH:
+
+ NOT A MATCH:
+
+          Great_dane_05320.jpg: 
+Real:                 great dane   Classifier:                           lynx  
+PetLabelDog: 1  ClassLabelDog: 0
+
+              Beagle_01125.jpg: 
+Real:                     beagle   Classifier:                           lynx  
+PetLabelDog: 1  ClassLabelDog: 0
+
+              Collie_03797.jpg: 
+Real:                     collie   Classifier:                           lynx  
+PetLabelDog: 1  ClassLabelDog: 0
+
+           Dalmatian_04068.jpg: 
+Real:                  dalmatian   Classifier:                           lynx  
+PetLabelDog: 1  ClassLabelDog: 0
+
+ Miniature_schnauzer_06884.jpg: 
+Real:        miniature schnauzer   Classifier:                           lynx  
+PetLabelDog: 1  ClassLabelDog: 0
+
+ German_shepherd_dog_04890.jpg: 
+Real:        german shepherd dog   Classifier:                           lynx  
+PetLabelDog: 1  ClassLabelDog: 0
+
+             Basenji_00963.jpg: 
+Real:                    basenji   Classifier:                           lynx  
+PetLabelDog: 1  ClassLabelDog: 0
+
+                    cat_02.jpg: 
+Real:                        cat   Classifier:                           lynx  
+PetLabelDog: 0  ClassLabelDog: 0
+
+    Golden_retriever_05223.jpg: 
+Real:           golden retriever   Classifier:                           lynx  
+PetLabelDog: 1  ClassLabelDog: 0
+
+       great_horned_owl_02.jpg: 
+Real:           great horned owl   Classifier:                           lynx  
+PetLabelDog: 0  ClassLabelDog: 0
+
+        Basset_hound_01034.jpg: 
+Real:               basset hound   Classifier:                           lynx  
+PetLabelDog: 1  ClassLabelDog: 0
+
+      Cocker_spaniel_03750.jpg: 
+Real:             cocker spaniel   Classifier:                           lynx  
+PetLabelDog: 1  ClassLabelDog: 0
+
+              Poodle_07927.jpg: 
+Real:                     poodle   Classifier:                           lynx  
+PetLabelDog: 1  ClassLabelDog: 0
+
+              Beagle_01141.jpg: 
+Real:                     beagle   Classifier:                           lynx  
+PetLabelDog: 1  ClassLabelDog: 0
+
+       Saint_bernard_08010.jpg: 
+Real:              saint bernard   Classifier:                           lynx  
+PetLabelDog: 1  ClassLabelDog: 0
+
+               Boxer_02426.jpg: 
+Real:                      boxer   Classifier:                           lynx  
+PetLabelDog: 1  ClassLabelDog: 0
+
+      Great_pyrenees_05367.jpg: 
+Real:             great pyrenees   Classifier:                           lynx  
+PetLabelDog: 1  ClassLabelDog: 0
+
+German_shorthaired_pointer_04986.jpg: 
+Real: german shorthaired pointer   Classifier:                           lynx  
+PetLabelDog: 1  ClassLabelDog: 0
+
+           Dalmatian_04037.jpg: 
+Real:                  dalmatian   Classifier:                           lynx  
+PetLabelDog: 1  ClassLabelDog: 0
+
+           fox_squirrel_01.jpg: 
+Real:               fox squirrel   Classifier:                           lynx  
+PetLabelDog: 0  ClassLabelDog: 0
+
+             polar_bear_04.jpg: 
+Real:                 polar bear   Classifier:                           lynx  
+PetLabelDog: 0  ClassLabelDog: 0
+
+             Basenji_00974.jpg: 
+Real:                    basenji   Classifier:                           lynx  
+PetLabelDog: 1  ClassLabelDog: 0
+
+       Saint_bernard_08036.jpg: 
+Real:              saint bernard   Classifier:                           lynx  
+PetLabelDog: 1  ClassLabelDog: 0
+
+              Beagle_01170.jpg: 
+Real:                     beagle   Classifier:                           lynx  
+PetLabelDog: 1  ClassLabelDog: 0
+
+                  gecko_02.jpg: 
+Real:                      gecko   Classifier:                           lynx  
+PetLabelDog: 0  ClassLabelDog: 0
+
+      Boston_terrier_02285.jpg: 
+Real:             boston terrier   Classifier:                           lynx  
+PetLabelDog: 1  ClassLabelDog: 0
+
+    Golden_retriever_05195.jpg: 
+Real:           golden retriever   Classifier:                           lynx  
+PetLabelDog: 1  ClassLabelDog: 0
+
+    Golden_retriever_05182.jpg: 
+Real:           golden retriever   Classifier:                           lynx  
+PetLabelDog: 1  ClassLabelDog: 0
+
+           Dalmatian_04017.jpg: 
+Real:                  dalmatian   Classifier:                           lynx  
+PetLabelDog: 1  ClassLabelDog: 0
+
+    Golden_retriever_05257.jpg: 
+Real:           golden retriever   Classifier:                           lynx  
+PetLabelDog: 1  ClassLabelDog: 0
+
+      Boston_terrier_02259.jpg: 
+Real:             boston terrier   Classifier:                           lynx  
+PetLabelDog: 1  ClassLabelDog: 0
+
+                  gecko_80.jpg: 
+Real:                      gecko   Classifier:                           lynx  
+PetLabelDog: 0  ClassLabelDog: 0
+
+              Poodle_07956.jpg: 
+Real:                     poodle   Classifier:                           lynx  
+PetLabelDog: 1  ClassLabelDog: 0
+
+      Great_pyrenees_05435.jpg: 
+Real:             great pyrenees   Classifier:                           lynx  
+PetLabelDog: 1  ClassLabelDog: 0
+
+                    cat_01.jpg: 
+Real:                        cat   Classifier:                           lynx  
+PetLabelDog: 0  ClassLabelDog: 0
+
+      Boston_terrier_02303.jpg: 
+Real:             boston terrier   Classifier:                           lynx  
+PetLabelDog: 1  ClassLabelDog: 0
+
+                 skunk_029.jpg: 
+Real:                      skunk   Classifier:                           lynx  
+PetLabelDog: 0  ClassLabelDog: 0
+
+                    cat_07.jpg: 
+Real:                        cat   Classifier:                           lynx  
+PetLabelDog: 0  ClassLabelDog: 0
+
+                Rabbit_002.jpg: 
+Real:                     rabbit   Classifier:                           lynx  
+PetLabelDog: 0  ClassLabelDog: 0
+
+ German_shepherd_dog_04931.jpg: 
+Real:        german shepherd dog   Classifier:                           lynx  
+PetLabelDog: 1  ClassLabelDog: 0
+
+# Total Images 40 # Matches: 0 # NOT Matches: 40
+
+ ** Statistics from calculates_results_stats() function:
+N Images: 40  N Dog Images: 30  N NotDog Images: 10 
+Pct Corr dog:   0.0 Pct Corr NOTdog: 100.0  Pct Corr Breed:   0.0
+
+ ** Check Statistics - calculated from this function as a check:
+N Images: 40  N Dog Images: 30  N NotDog Images: 10 
+Pct Corr dog:   0.0 Pct Corr NOTdog: 100.0  Pct Corr Breed:   0.0
+
+
+*** Results Summary for CNN Model Architecture ALEXNET ***
+N Images            :  40
+N Dog Images        :  30
+N Not-Dog Images    :  10
+
+0.0 % Correct Dogs
+0.0 % Correct Breed
+0.0 % Correct "Not-a" Dog
+0.0 % Correct Dogs
+0.0 % Correct Breed
+0.0 % Correct "Not-a" Dog
+100.0 % Correct Dogs
+100.0 % Correct Breed
+100.0 % Correct "Not-a" Dog
+
+INCORRECT Dog/NOT Dog Assignments:
+
+** Total Elapsed Runtime: 0:0:7
